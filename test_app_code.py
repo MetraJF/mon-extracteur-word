@@ -1,4 +1,5 @@
 import streamlit as st
+import docx
 from docx import Document
 
 # 1. Titre de l'application
